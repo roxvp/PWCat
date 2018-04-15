@@ -19,7 +19,6 @@
         "prefix": "app",
         "styles": [
             "styles.css",
-            "favicon.ico",
             "manifest.json"
         ],
         "scripts": [],
